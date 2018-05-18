@@ -10,7 +10,7 @@
 [chamada.cpp](chamada.c)
 
 ### Coleta
-[Descrição do Problema]()
+[Descrição do Problema](assets/coleta.pdf)
 [coleta.cpp](coleta.cpp)
 
 ### Corrida
@@ -24,7 +24,7 @@
 [cometa.cpp](cometa.cpp)
 
 ### Doces
-[Descrição do Problema]()
+[Descrição do Problema](assets/doces.pdf)
 
 [doces.cpp](doces.cpp)
 
@@ -43,10 +43,6 @@
 
 [expressoes.cpp](expressoes.cpp) | [expr.cpp](expr.cpp)
 
-### Doces
-[Descrição do Problema]()
-
-[doces.cpp](doces.cpp)
 
 ### Fliperama
 [Descrição do Problema](http://br.spoj.com/problems/FLIPERAM/)
@@ -55,41 +51,41 @@
 
 
 ### Fusão
-[Descrição do Problema]()
+[Descrição do Problema](assets/fusao.pdf)
 
 [fusao.cpp](fusao.cpp)
 
 ### Fusão II
-[Descrição do Problema]()
+[Descrição do Problema](assets/fusao2.pdf)
 
 [fusao2.cpp](fusao2.cpp)
 
 
 ### General dos imaculados
-[Descrição do Problema]()
+[Descrição do Problema](assets/general.pdf)
 
 [general.c](general.c)
 
 
 ### Informações à venda
-[Descrição do Problema]()
+[Descrição do Problema](assets/info.pdf)
 
 [info.cpp](info.cpp)
 
 ### Investindo no mercado de ações
-[Descrição do Problema]()
+[Descrição do Problema](http://br.spoj.com/problems/ACOES1MG/)
 
 [invest.c](invest.c)
 
 
 ### Parser
-[Descrição do Problema]()
+[Descrição do Problema](assets/.pdf)
 
 [parser.cpp](parser.cpp)
 
 
 ### Poodle
-[Descrição do Problema]()
+[Descrição do Problema](http://br.spoj.com/problems/POODLEMG/)
 
 [poodle.c](poodle.c)
 
@@ -101,7 +97,7 @@
 
 
 ### Recrutamento
-[Descrição do Problema]()
+[Descrição do Problema](assets/recrutamento.pdf)
 
 [recrutamento.cpp](recrutamento.cpp)
 
@@ -122,7 +118,7 @@
 [vivo.cpp](vivo.cpp)
 
 ### Cofrinhos da vó Vitória
-[Descrição do Problema]()
+[Descrição do Problema](http://br.spoj.com/problems/COFRE/)
 
 [vo.c](vo.c)
 
