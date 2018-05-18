@@ -32,7 +32,8 @@
 ### Expressões
 [Descrição do Problema](http://br.spoj.com/problems/EXPRES11/)
 
-[expressoes.cpp](expressoes.cpp)
+[expressoes.cpp](expressoes.cpp) | [expr.cpp](expr.cpp)
+
     
 ### Fliperama
 [Descrição do Problema](http://br.spoj.com/problems/FLIPERAM/)
