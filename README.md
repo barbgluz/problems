@@ -122,3 +122,7 @@
 
 [vo.c](vo.c)
 
+### Aula de defesa contra a arte das trevas
+[Descrição do Problema](/assets/trevas.pdf)
+
+[trevas.cpp](trevas.cpp)
