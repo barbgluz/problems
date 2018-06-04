@@ -126,3 +126,8 @@
 [Descrição do Problema](/assets/trevas.pdf)
 
 [trevas.cpp](trevas.cpp)
+
+### Resgate
+[Descrição do Problema](/assets/resgate.pdf)
+
+[resgate.cpp](resgate.cpp)
