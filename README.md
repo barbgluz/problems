@@ -107,6 +107,13 @@
 
 [robo.c](robo.c)
 
+
+### Sorteio
+[Descrição do Problema](assets/sorteio.pdf)
+
+[sorteio.cpp](sorteio.cpp)
+
+
 ### Tapetes
 [Descrição do Problema](http://br.spoj.com/problems/TAPETE14/)
 
