@@ -3,29 +3,48 @@
 
 [aeroporto.c](aeroporto.c) | [aeroporto.cpp](aeroporto.cpp)
 
+
+### Blockchain
+[Descrição do problema](assets/blockchain.pdf)
+
+[blockchain.cpp](blockchain.cpp)
+
+
 ### Busca Binaria
 [Descrição do Problema](assets/binary.pdf)
 
 [binary.cpp](binary.cpp)
+
 
 ### C3PO
 [Descrição do Problema](assets/c3po.pdf)
 
 [c3po.cpp](c3p0.cpp)
 
+
 ### Chamada
 [Desrição do Problema](http://br.spoj.com/problems/CHAMADA1/)
 
 [chamada.cpp](chamada.c)
 
+
 ### Coleta
 [Descrição do Problema](assets/coleta.pdf)
+
 [coleta.cpp](coleta.cpp)
+
+
+### Conte os pares
+[Descriçao do Problema](assets/pair.pdf)
+
+[pair.cpp](pair.cpp)
+
 
 ### Corrida
 [Descrição do Problema](http://br.spoj.com/problems/CORR11/)
 
 [corrida.cpp](corrida.cpp)
+
 
 ### Cometa
 [Descrição do Problema](http://br.spoj.com/problems/COMETA2/)
@@ -37,15 +56,18 @@
 
 [doces.cpp](doces.cpp)
 
+
 ### Número de Envelopes
 [Descrição do Problema](http://br.spoj.com/problems/ENVEL09/)
 
 [envel.c](envel.c)
 
+
 ### Estágio
 [Descrição do Problema](http://br.spoj.com/problems/ESTAGIO/)
 
 [est.cpp](est.cpp)
+
 
 ### Expressões
 [Descrição do Problema](http://br.spoj.com/problems/EXPRES11/)
@@ -64,6 +86,7 @@
 
 [fusao.cpp](fusao.cpp)
 
+
 ### Fusão II
 [Descrição do Problema](assets/fusao2.pdf)
 
@@ -80,6 +103,7 @@
 [Descrição do Problema](assets/info.pdf)
 
 [info.cpp](info.cpp)
+
 
 ### Investindo no mercado de ações
 [Descrição do Problema](http://br.spoj.com/problems/ACOES1MG/)
@@ -110,6 +134,11 @@
 
 [recrutamento.cpp](recrutamento.cpp)
 
+
+### Representante de classe
+[Descrição do Problema](assets/classe.pdf)
+
+[classe.cpp](classe.cpp)
 
 ### Robô colecionador
 [Descrição do Problema](http://br.spoj.com/problems/ROBOCOL/)
