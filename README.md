@@ -3,6 +3,11 @@
 
 [aeroporto.c](aeroporto.c) | [aeroporto.cpp](aeroporto.cpp)
 
+### Busca Binaria
+[Descrição do Problema](assets/binary.pdf)
+
+[binary.cpp](binary.cpp)
+
 ### C3PO
 [Descrição do Problema](assets/c3po.pdf)
 
