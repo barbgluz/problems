@@ -157,6 +157,11 @@
 
 [tapetes.cpp](tapetes.cpp)
 
+### Tetris
+[Descrição do Problema](https://br.spoj.com/problems/OBITETRI/)
+
+[tetris.cpp](tetris.cpp)
+
 ### Vivo ou morto
 [Descrição do Problema](http://br.spoj.com/problems/VIVO/)
 
