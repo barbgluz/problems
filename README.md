@@ -28,6 +28,12 @@
 [chamada.cpp](chamada.c)
 
 
+### Coin Collector
+[Descrição do Problema](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2231)
+
+[coin.cpp](coin.cpp)
+
+
 ### Coleta
 [Descrição do Problema](assets/coleta.pdf)
 
